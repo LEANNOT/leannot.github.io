@@ -1,2 +1,2 @@
 # leannot.github.io
-A GitHub Page fro John Olaobaju's Projects
+A GitHub Page for John Olaobaju's Projects
